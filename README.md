@@ -1,7 +1,7 @@
 
-# RasiCoin
+# Raisecoin
 
-RasiCoin is a revolutionary project aimed at addressing the global challenge of taking projects public and raising funds across the globe. Traditional geographical boundaries and limitations often hinder project reach and funding opportunities. RasiCoin seeks to eliminate these barriers using blockchain technology, providing a decentralized, transparent, and secure platform for global fundraising.
+Raisecoin is a revolutionary project aimed at addressing the global challenge of taking projects public and raising funds across the globe. Traditional geographical boundaries and limitations often hinder project reach and funding opportunities. Raisecoin seeks to eliminate these barriers using blockchain technology, providing a decentralized, transparent, and secure platform for global fundraising.
 
 ## Key Features
 
@@ -35,7 +35,7 @@ Our primary focus is to provide a user-friendly and aesthetically pleasing UI/UX
 
 ## Contributing
 
-We welcome contributions to enhance RasiCoin. To contribute:
+We welcome contributions to enhance Raisecoin. To contribute:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
 3. Commit your changes (`git commit -m 'Add some feature'`).
